@@ -163,7 +163,7 @@ header img {
 .hero {
   margin: 0px;
   padding: 180px 40px;
-  background-image: url("/images/paysage.avif");
+  background-image: url("images/paysage.avif");
   background-origin: border-box;
   background-repeat: no-repeat;
 
@@ -235,7 +235,7 @@ header img {
 /*---------- form -------------*/
 
 form {
-  background-image: url("/images/homme.avif");
+  background-image: url("images/homme.avif");
   margin: 0px;
   padding: 320px 40px;
   background-origin: border-box;
